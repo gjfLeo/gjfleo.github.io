@@ -14,3 +14,8 @@
 <a href="https://hots.huijiwiki.com/wiki/首页" style="margin: 0 auto; text-align: center;">
   <image src="https://huiji-public.huijistatic.com/hots/uploads/b/bd/Hots-logo-quarter.png" />
 </a>
+
+<video loop="true" autoplay="autoplay" muted="muted">
+    <source src="https://blz.nosdn.127.net/1/tm/heroes/landing/h50/video.webm" type="video/webm">
+    <source src="https://blz.nosdn.127.net/1/tm/heroes/landing/h50/video.mp4" type="video/mp4">
+</video>
