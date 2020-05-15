@@ -3,19 +3,7 @@
 
 测试一下图片和链接。
 
-<img
-  alt="Hots-logo-icon-120.png"
-  src="https://huiji-public.huijistatic.com/hots/uploads/2/23/Hots-logo-icon-120.png"
-  width="120" height="120"
-  style="animation: img-rotate 20s infinite linear; display: block; float: right;"
-  data-file-width="120" data-file-height="120"
-/>
-
-<a href="https://hots.huijiwiki.com/wiki/首页" style="margin: 0 auto; text-align: center;">
-    <image src="https://huiji-public.huijistatic.com/hots/uploads/b/bd/Hots-logo-quarter.png" />
-</a>
-
-<video loop="true" autoplay="autoplay" muted="muted">
-    <source src="https://blz.nosdn.127.net/1/tm/heroes/landing/h50/video.webm" type="video/webm">
-    <source src="https://blz.nosdn.127.net/1/tm/heroes/landing/h50/video.mp4" type="video/mp4">
-</video>
+| 图片                                                                                                        | 链接                                                                                         |
+|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| <image src="https://heroes.nosdn.127.net/1/images/common/2018/heroes-logo-large-zhCN@2x.png" width="240" /> | [《风暴英雄》官方网站](https://heroes.blizzard.cn/home/)                                     |
+| <image src="https://huiji-public.huijistatic.com/hots/uploads/b/bd/Hots-logo-quarter.png" width="240" />    | [乌鸦王庭 #风暴英雄中文维基# - 灰机wiki](https://hots.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) |
